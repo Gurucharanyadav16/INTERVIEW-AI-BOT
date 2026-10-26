@@ -1,0 +1,11 @@
+name,email,jobRole,skills,experienceLevel,batchId
+Aarav Sharma,aarav.sharma@devmail.in,Full-Stack Engineer,TypeScript;Next.js;PostgreSQL;React,MID,BATCH-2026-Q4
+Diya Patel,diya.patel@techportal.in,Full-Stack Engineer,TypeScript;Next.js;Prisma;Tailwind,MID,BATCH-2026-Q4
+Rohan Verma,rohan.verma@cloudnative.in,Backend Engineer,Node.js;TypeScript;PostgreSQL;Redis,SENIOR,BATCH-2026-Q4
+Meera Iyer,meera.iyer@frontendcraft.in,Frontend Engineer,React;TypeScript;Tailwind CSS;Accessibility,JUNIOR,BATCH-2026-Q4
+Karthik Sundaram,karthik.s@distributed.in,Backend Engineer,Node.js;TypeScript;Docker;PostgreSQL,SENIOR,BATCH-2026-Q4
+Neha Gupta,neha.gupta@fullstacklabs.in,Full-Stack Engineer,Next.js;TypeScript;Supabase;Zod,MID,BATCH-2026-Q4
+Siddharth Rao,siddharth.rao@uiuxdev.in,Frontend Engineer,React;Next.js;TypeScript;Playwright,JUNIOR,BATCH-2026-Q4
+Pooja Reddy,pooja.reddy@apifirst.in,Full-Stack Engineer,TypeScript;Node.js;React;PostgreSQL,MID,BATCH-2026-Q4
+Aditya Joshi,aditya.joshi@systemseng.in,Backend Engineer,TypeScript;Node.js;Queueing;Security,SENIOR,BATCH-2026-Q4
+Kavya Menon,kavya.menon@webplatform.in,Frontend Engineer,React;TypeScript;CSS Grid;Testing,JUNIOR,BATCH-2026-Q4
